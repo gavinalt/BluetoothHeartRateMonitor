@@ -16,6 +16,7 @@
 		86A6451924A9897D00D4F50F /* BluetoothTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86A6451824A9897D00D4F50F /* BluetoothTests.swift */; };
 		86B4168D24AA7BB700E34332 /* LogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B4168C24AA7BB700E34332 /* LogViewController.swift */; };
 		86B4168F24AA890000E34332 /* UIKit+Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B4168E24AA890000E34332 /* UIKit+Utility.swift */; };
+		86DC554A24AB66B10024628A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 86DC554924AB66B10024628A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		86A6451A24A9897D00D4F50F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86B4168C24AA7BB700E34332 /* LogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogViewController.swift; sourceTree = "<group>"; };
 		86B4168E24AA890000E34332 /* UIKit+Utility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIKit+Utility.swift"; sourceTree = "<group>"; };
+		86DC554924AB66B10024628A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 		86A644F524A9897B00D4F50F = {
 			isa = PBXGroup;
 			children = (
+				86DC554924AB66B10024628A /* README.md */,
 				86A6450024A9897B00D4F50F /* Bluetooth */,
 				86A6451724A9897D00D4F50F /* BluetoothTests */,
 				86A644FF24A9897B00D4F50F /* Products */,
@@ -188,6 +191,7 @@
 			files = (
 				86A6450E24A9897C00D4F50F /* LaunchScreen.storyboard in Resources */,
 				86A6450B24A9897C00D4F50F /* Assets.xcassets in Resources */,
+				86DC554A24AB66B10024628A /* README.md in Resources */,
 				86A6450924A9897B00D4F50F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
